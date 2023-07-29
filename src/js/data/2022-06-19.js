@@ -927,7 +927,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
     name: "Lily (NMIXX)",
-    img: "pCNl2vm.png",
+    img: "1puLaua.png",
     opts: {
       group: [ "NMIXX" ],
       gen: ["gen4"]  
