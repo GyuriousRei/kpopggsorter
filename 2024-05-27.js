@@ -1846,8 +1846,8 @@ dataSet[dataSetVersion].characterData = [
       }
     }
 	{
-    name: "mzFSCll (Geenius)",
-    img: "Sion.png",
+    name: "Sion (Geenius)",
+    img: "mzFSCll.png",
     opts: {
       group: [ "Geenius" ],
       gen: ["gen4"]  
