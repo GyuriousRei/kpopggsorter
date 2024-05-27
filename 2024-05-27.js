@@ -1844,7 +1844,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "Geenius" ],
       gen: ["gen4"]  
       }
-    }
+    },
 	{
     name: "Sion (Geenius)",
     img: "mzFSCll.png",
@@ -1852,7 +1852,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "Geenius" ],
       gen: ["gen4"]  
       }
-    }
+    },
 	{
     name: "Mika (Geenius)",
     img: "zYCQKtR.png",
@@ -1860,7 +1860,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "Geenius" ],
       gen: ["gen4"]  
       }
-    }
+    },
 	{
     name: "Andamiro (Geenius)",
     img: "gB3XsIP.png",
@@ -1868,7 +1868,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "Geenius" ],
       gen: ["gen4"]  
       }
-    }
+    },
 	{
     name: "Zoe (Geenius)",
     img: "rLIMFOY.png",
