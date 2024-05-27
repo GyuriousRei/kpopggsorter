@@ -29,7 +29,6 @@ dataSet[dataSetVersion].options = [
 	  { name: "Limelight", key: "Limelight" },
 	  { name: "Kep1er", key: "Kep1er" },
 	  { name: "TripleS", key: "TripleS" },
-	  { name: "FIFTY FIFTY", key: "Fiftyfifty" },
 	  { name: "CSR", key: "CSR" },
 	  { name: "NMIXX", key: "NMIXX" },
 	  { name: "ARTMS", key: "ARTMS" },
@@ -1207,38 +1206,6 @@ dataSet[dataSetVersion].characterData = [
       }
     },
 	{
-    name: "Sio (FIFTY FIFTY)",
-    img: "MPZTs23.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Keena (FIFTY FIFTY)",
-    img: "NBbJsug.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Aran (FIFTY FIFTY)",
-    img: "ocm6Wgx.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Saena (FIFTY FIFTY)",
-    img: "dKPbwFg.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
     name: "Duna (CSR)",
     img: "3FXEAha.png",
     opts: {
@@ -1353,14 +1320,6 @@ dataSet[dataSetVersion].characterData = [
 	{
     name: "Somi (solo)",
     img: "F4xD49d.png",
-    opts: {
-      group: [ "solo" ],
-      gen: ["gen3"]  
-      }
-    },
-    {
-    name: "Sohee (Alice / solo)",
-    img: "F3iReOX.png",
     opts: {
       group: [ "solo" ],
       gen: ["gen3"]  
@@ -1665,14 +1624,6 @@ dataSet[dataSetVersion].characterData = [
 	{
     name: "Sohee (Rocket Punch)",
     img: "YormJCy.png",
-    opts: {
-      group: [ "Rocket Punch" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Juri (Rocket Punch)",
-    img: "w2rMkHr.png",
     opts: {
       group: [ "Rocket Punch" ],
       gen: ["gen4"]  
