@@ -1876,5 +1876,5 @@ dataSet[dataSetVersion].characterData = [
       group: [ "Geenius" ],
       gen: ["gen4"]  
       }
-    }
+    },
 ];
