@@ -1813,4 +1813,68 @@ dataSet[dataSetVersion].characterData = [
       gen: ["gen4"]  
       }
     },
+		{
+    name: "Chaewon (TripleS)",
+    img: "KSG2lWs.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "Joobin (TripleS)",
+    img: "eTUcLgn.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "Jiyeon (TripleS)",
+    img: "ChJZeia.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "Lynn (TripleS)",
+    img: "GbwGgkX.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "SeoAh (TripleS)",
+    img: "zBUwWLP.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "Shion (TripleS)",
+    img: "swHwPK9.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "Sullin (TripleS)",
+    img: "W4fOGrB.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
+	{
+    name: "Hayeon (TripleS)",
+    img: "Ubu2g9U.png",
+    opts: {
+      group: [ "TripleS" ],
+      gen: ["gen4"]  
+      }
+    },
 ];
