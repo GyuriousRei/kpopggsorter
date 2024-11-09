@@ -46,7 +46,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "ODD YOUTH", key: "ODD YOUTH" },
 	  { name: "Rescene", key: "Rescene" },
 	  { name: "ICHILLIN", key: "ICHILLIN" },
-	  { name: "ablume'", key: "ablume" },
+	  { name: "ablume", key: "ablume" },
 	  { name: "Soloists / Misc.", key: "solo" },
     ]
   },
