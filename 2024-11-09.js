@@ -29,7 +29,6 @@ dataSet[dataSetVersion].options = [
 	  { name: "Madein", key: "Madein" },
 	  { name: "Kep1er", key: "Kep1er" },
 	  { name: "TripleS", key: "TripleS" },
-	  { name: "FIFTY FIFTY", key: "Fiftyfifty" },
 	  { name: "CSR", key: "CSR" },
 	  { name: "NMIXX", key: "NMIXX" },
 	  { name: "ARTMS", key: "ARTMS" },
@@ -1208,38 +1207,6 @@ dataSet[dataSetVersion].characterData = [
     img: "eP2wM52.png",
     opts: {
       group: [ "TripleS" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Sio (FIFTY FIFTY)",
-    img: "MPZTs23.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Keena (FIFTY FIFTY)",
-    img: "NBbJsug.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Aran (FIFTY FIFTY)",
-    img: "ocm6Wgx.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
-    name: "Saena (FIFTY FIFTY)",
-    img: "dKPbwFg.png",
-    opts: {
-      group: [ "Fiftyfifty" ],
       gen: ["gen4"]  
       }
     },
