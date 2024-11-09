@@ -1964,7 +1964,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
     name: "Sio (Ablume)",
-    img: "QlSfcL8.png",
+    img: "MPZTs23.png",
     opts: {
       group: [ "Ablume" ],
       gen: ["gen4"]  
