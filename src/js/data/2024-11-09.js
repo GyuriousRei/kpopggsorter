@@ -1635,14 +1635,6 @@ dataSet[dataSetVersion].characterData = [
       }
     },
 	{
-    name: "Juri (Rocket Punch)",
-    img: "w2rMkHr.png",
-    opts: {
-      group: [ "Rocket Punch" ],
-      gen: ["gen4"]  
-      }
-    },
-	{
     name: "Dahyun (Rocket Punch)",
     img: "8Z0moBH.png",
     opts: {
@@ -1964,7 +1956,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
     name: "Sio (Ablume)",
-    img: "QlSfcL8.png",
+    img: "MPZTs23.png",
     opts: {
       group: [ "Ablume" ],
       gen: ["gen4"]  
